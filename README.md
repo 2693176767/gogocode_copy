@@ -5,7 +5,7 @@
 
 <<<<<<< HEAD
 
-## What was GoGoCode2? 代码转换从未如此简单！！！
+## What was GoGoCode2? 代码转换从未如此简单！
 >>>>>>> a
 
 [中文 README](README-cn.md)
