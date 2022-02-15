@@ -3,7 +3,10 @@
 [![npm version](https://img.shields.io/npm/v/gogocode.svg)](https://www.npmjs.com/package/gogocode) [![license](https://img.shields.io/npm/l/gogocode.svg)](LICENSE) 
 
 
-## What was GoGoCode2?
+<<<<<<< HEAD
+
+## What was GoGoCode2? 代码转换从未如此简单！
+>>>>>>> a
 
 [中文 README](README-cn.md)
 
@@ -14,7 +17,7 @@ GoGoCode is a transformer for JavaScript/Typescript/HTML based on AST but provid
 
 Learn more at [GoGoCode.io](https://gogocode.io)
 
-## Intro
+## Intro 废弃
 
 Let's show you how to select and modify code with our API
 
